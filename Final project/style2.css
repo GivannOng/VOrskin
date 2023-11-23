@@ -1,0 +1,714 @@
+*{
+    margin:0px;
+    padding: 0px;
+    width: 100%;
+}
+.header{
+    position: absolute;
+    width: 800px;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    background: #F57ED4;
+}
+.logo{
+    position: absolute;
+    width: 339px;
+    height: 186px;
+    left: 231px;
+    top: 21px;
+}
+.home{
+    position: absolute;
+    width: 91px;
+    height: 44px;
+    left: 20px;
+    top: 229px;
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 380;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.about{
+    position: absolute;
+    width: 91px;
+    height: 44px;
+    left: 159px;
+    top: 229px;
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 380;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.product{
+    position: absolute;
+    width: 142px;
+    height: 44px;
+    left: 499px;
+    top: 229px;  
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 380;
+    font-size: 25px;
+     color: #FFFFFF;
+     text-decoration: none;
+}
+.promotion{
+    position: absolute;
+    width: 176px;
+    height: 44px;
+    left: 297px;
+    top: 229px;
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 380;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.subscribe{
+    position: absolute;
+    width: 159px;
+    height: 44px;
+    left: 641px;
+    top: 229px;
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 380;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.content{
+    width: 100%;
+}
+.bestsellertext{
+    position: absolute;
+    width: 314px;
+    height: 33px;
+    left: 243px;
+    top: 321px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #000000;
+}
+.bestseller{
+    position: absolute;
+    width: 259px;
+    height: 275px;
+    left: 271px;
+    top: 375px;
+}
+.bestsellertext2{
+    position: absolute;
+    width: 305px;
+    height: 29px;
+    left: 248px;
+    top: 671px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.latestproducttext{
+    position: absolute;
+    width: 217px;
+    height: 38px;
+    left: 292px;
+    top: 754px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #000000; 
+}
+.weekpromo1{
+    position: absolute;
+    width: 259px;
+    height: 275px;
+    left: 96px;
+    top: 840px;
+}
+.weekpromo1text{
+    position: absolute;
+    width: 338px;
+    height: 30px;
+    left: 60px;
+    top: 1115px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.weekpromo2{
+    position: absolute;
+    width: 259px;
+    height: 275px;
+    left: 440px;
+    top: 840px;
+}
+.weekpromo2text{
+    position: absolute;
+    width: 288px;
+    height: 30px;
+    left: 440px;
+    top: 1115px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.specialoffertext{
+    position: absolute;
+    width: 406px;
+    height: 52px;
+    left: 209px;
+    top: 1224px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #000000;
+}
+.promobanner1{
+    position: absolute;
+    width: 685px;
+    height: 328px;
+    left: 60px;
+    top: 1303px;
+}
+.promobanner2{
+    position: absolute;
+    width: 685px;
+    height: 328px;
+    left: 58px;
+    top: 1658px;
+}
+footer{
+    position: absolute;
+    width: 800px;
+    height: 218px;
+    left: 0px;
+    margin-top: 2049px;
+    background: #F57ED4;
+}
+.contact{
+    position: absolute;
+    width: 190px;
+    height: 46px;
+    left: 112px;
+    top: 46px;
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 380;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.phone{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 112px;
+    top: 97px;
+}
+.phonenumber{
+    position: absolute;
+    width: 287px;
+    height: 60px;
+    left: 147px;
+    top: 86px;
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 380;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.mail{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 112px;
+    top: 132px;
+    
+}
+.email{
+    position: absolute;
+    width: 299px;
+    height: 50px;
+    left: 147px;
+    top: 120px;
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 380;
+    font-size: 25px;
+     color: #FFFFFF;
+}
+.follow{
+    position: absolute;
+    width: 158px;
+    height: 44px;
+    left: 503px;
+    top: 46px;
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 380;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.instagram{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 503px;
+    top: 85px;
+}
+.twitter{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 553px;
+    top: 85px;
+}
+.youtube{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 603px;
+    top: 85px;
+}
+.aboutus{
+    position: absolute;
+    width: 140px;
+    height: 33px;
+    left: 328px;
+    top: 319px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #000000;
+}
+.about1{
+    position: absolute;
+    width: 305px;
+    height: 29px;
+    left: 39px;
+    top: 398px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.about2{
+    position: absolute;
+    width: 717px;
+    height: 176px;
+    left: 39px;
+    top: 449px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.founder1{
+    position: absolute;
+    width: 317px;
+    height: 38px;
+    left: 239px;
+    top: 689px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #000000;
+}
+.founder{
+    position: absolute;
+    width: 257px;
+    height: 257px;
+    left: 269px;
+    top: 761px;
+}
+.founder2{
+    position: absolute;
+    width: 717px;
+    height: 144px;
+    left: 44px;
+    top: 1038px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.aboutfoot{
+    position: absolute;
+    width: 800px;
+    height: 218px;
+    left: 0px;
+    margin-top: 1202px;
+    background: #F57ED4;
+}
+.promotion1{
+    position: absolute;
+    width: 171px;
+    height: 33px;
+    left: 314px;
+    top: 319px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #000000; 
+}
+.gopay{
+    position: absolute;
+    width: 508px;
+    height: 285px;
+    left: 147px;
+    top: 384px;
+}
+.gopaytext1{
+    position: absolute;
+    width: 339px;
+    height: 35px;
+    left: 239px;
+    top: 689px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.gopaytext2{
+    position: absolute;
+    width: 491px;
+    height: 35px;
+    left: 173px;
+    top: 724px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.bca{
+    position: absolute;
+    width: 508px;
+    height: 230px;
+    left: 146px;
+    top: 791px;
+}
+.bcatext1{
+    position: absolute;
+    width: 323px;
+    height: 35px;
+    left: 247px;
+    top: 1029px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.bcatext2{
+    position: absolute;
+    width: 394px;
+    height: 35px;
+    left: 222px;
+    top: 1064px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.promotionfoot{
+    position: absolute;
+    width: 800px;
+    height: 218px;
+    left: 0px;
+    margin-top: 1154px;
+    background: #F57ED4;
+}
+.products{
+    position: absolute;
+    width: 131px;
+    height: 33px;
+    left: 335px;
+    top: 319px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #000000;
+}
+.skincare{
+    position: absolute;
+    width: 185px;
+    height: 33px;
+    left: 46px;
+    top: 392px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.product1{
+    position: absolute;
+    width: 236px;
+    height: 303px;
+    left: 21px;
+    top: 444px;
+}
+.product2{
+    position: absolute;
+    width: 236px;
+    height: 303px;
+    left: 283px;
+    top: 444px;
+}
+.product3{
+    position: absolute;
+    width: 236px;
+    height: 303px;
+    left: 545px;
+    top: 444px;
+}
+.product4{
+    position: absolute;
+    width: 236px;
+    height: 303px;
+    left: 20px;
+    top: 803px;
+}
+.product5{
+    position: absolute;
+    width: 236px;
+    height: 303px;
+    left: 282px;
+    top: 803px;
+}
+.product6{
+    position: absolute;
+    width: 236px;
+    height: 303px;
+    left: 545px;
+    top: 803px;
+}
+.bodycare{
+    position: absolute;
+    width: 185px;
+    height: 33px;
+    left: 45px;
+    top: 1144px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.product7{
+    position: absolute;
+    width: 236px;
+    height: 303px;
+    left: 20px;
+    top: 1196px;
+}
+.product8{
+    position: absolute;
+    width: 236px;
+    height: 303px;
+    left: 282px;
+    top: 1196px;
+}
+.product9{
+    position: absolute;
+    width: 236px;
+    height: 303px;
+    left: 544px;
+    top: 1196px;
+}
+.productfoot{
+    position: absolute;
+    width: 800px;
+    height: 218px;
+    left: 0px;
+    margin-top: 1536px;
+}
+.registration{
+    position: absolute;
+    width: 754px;
+    height: 793px;
+    right: 22px;
+    top: 350px;
+    background: #D9D9D9;
+}
+.registrationtop{
+    position: absolute;
+    width: 463px;
+    height: 44px;
+    left: 165px;
+    top: 31px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.fullname{
+    position: absolute;
+    width: 115px;
+    height: 31px;
+    left: 42px;
+    top: 120px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+.namebox{
+    position: absolute;
+    width: 642px;
+    height: 58px;
+    left: 43px;
+    top: 156px;
+    font-size: 20px;
+}
+.emailaddress{
+    position: absolute;
+    width: 94px;
+    height: 31px;
+    left: 42px;
+    top: 235px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+.emailbox{
+    position: absolute;
+    width: 642px;
+    height: 58px;
+    left: 42px;
+    top: 270px;
+}
+.phonenumberregistration{
+    position: absolute;
+    width: 169px;
+    height: 31px;
+    left: 42px;
+    top: 348px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+.phonebox{
+    position: absolute;
+    width: 642px;
+    height: 58px;
+    left: 42px;
+    top: 384px;
+}
+.prefer{
+    position: absolute;
+    width: 258px;
+    height: 32px;
+    left: 42px;
+    top: 447px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+.radio1{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 50px;
+    top: 490px;
+}
+.radioskin{
+    position: absolute;
+    width: 199px;
+    height: 31px;
+    left: 73px;
+    top: 488px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+.radio2{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 50px;
+    top: 525px;
+}
+.radiobody{
+    position: absolute;
+    width: 199px;
+    height: 31px;
+    left: 73px;
+    top: 523px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+.agree{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 50px;
+    top: 581px;
+}
+.agreetext{
+    position: absolute;
+    width: 480px;
+    height: 31px;
+    left: 89px;
+    top: 578px;
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+}
+.submit{
+    position: absolute;
+    width: 89px;
+    height: 35px;
+    left: 316px;
+    top: 680px;
+    font-family: 'Macondo';
+    font-size: 25px;
+}
+.subscribefoot{
+    position: absolute;
+    width: 800px;
+    height: 218px;
+    left: 0px;
+    margin-top: 1197px;
+    background-color: #F57ED4;
+}
